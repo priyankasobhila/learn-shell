@@ -1,2 +1,2 @@
 # learn-shell
-#git huh basics
+#git hub basics
