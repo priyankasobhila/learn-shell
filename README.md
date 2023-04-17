@@ -1,2 +1,3 @@
 # learn-shell
-#git hub basics
+# how to open git hub
+## how to open intellij
